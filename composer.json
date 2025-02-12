@@ -1,7 +1,7 @@
 {
     "name": "salesfokuz/gamification",
     "description": "salesfokuz gamification package",
-    "type": "composer-plugin",
+    "type": "library",
     "require": {
         "php": ">=6.0",
         "illuminate/support": ">=6.0"
