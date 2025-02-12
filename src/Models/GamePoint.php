@@ -1,6 +1,6 @@
 <?php
 
-namespace Gamifi\Models;
+namespace Gamifi\Gamifi\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

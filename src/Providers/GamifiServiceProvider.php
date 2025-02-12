@@ -1,6 +1,6 @@
 <?php
 
-namespace Gamifi\Providers;
+namespace Gamifi\Gamifi\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

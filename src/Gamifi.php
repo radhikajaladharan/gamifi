@@ -1,6 +1,6 @@
 <?php
 
-namespace Gamifi;
+namespace Gamifi\Gamifi;
 
 use Gamifi\Models\GamePoint;
 
